@@ -22,6 +22,7 @@ The goal is to transform raw transactional data into **actionable business insig
 
 * ~500,000+ retail transactions
 * Features include: InvoiceDate, CustomerID, Quantity, UnitPrice
+* https://www.kaggle.com/datasets/samantas2020/online-retail-xlsx
 
 ---
 
